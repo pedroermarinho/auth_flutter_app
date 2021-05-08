@@ -1,0 +1,23 @@
+{
+  "project_name": "PayCarBus Mobile",
+  "version": "0.3.2",
+  "description": "aplicativo do projeto",
+  "icon_src": "assets/icon.png",
+  "screenshot_src": [],
+  "homepage": "https://github.com/paycarbus/paycarbus_mobile#readme",
+  "project_demo_url": "https://github.com/paycarbus/paycarbus_mobile#readme",
+  "repository_url": "https://github.com/paycarbus/paycarbus_mobile",
+  "documentation_url": "https://github.com/paycarbus/paycarbus_mobile#readme",
+  "issues_url": "https://github.com/paycarbus/paycarbus_mobile/issues",
+  "install_command": ["flutter install"],
+  "usage_command": ["flutter run"],
+  "test_command": ["flutter test"],
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:paycarbus/paycarbus_mobile.git"
+  },
+  "is_github_repos": true,
+  "has_start_command": true,
+  "has_test_command": true
+}
